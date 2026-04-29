@@ -1,8 +1,7 @@
-## Dashboard Preview
-
-![Retail Sales Dashboard](retail-sales-dashboard.jpg)
 # Retail Sales Dashboard (Power BI)
-
+## Dashboard Preview
+Below is the Power BI dashboard built for retail sales analysis:
+![Retail Sales Dashboard](retail-sales-dashboard.jpg)
 ## Overview
 This project presents a Power BI dashboard analyzing retail sales performance. The dashboard provides insights into revenue trends, product performance, and key business KPIs to support data-driven decision making.
 
