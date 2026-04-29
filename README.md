@@ -23,6 +23,7 @@ The dataset includes retail transaction data containing:
 - Clean and interactive visuals
   
 ![Dashboard Preview](Retail Sales Dashboard.jpg)
+![Dashboard Preview](Retail Sales Dashboard.jpg)
 ## Tools Used
 - Power BI
 - DAX
