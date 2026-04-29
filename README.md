@@ -21,7 +21,7 @@ The dataset includes retail transaction data containing:
 - Category-wise performance
 - KPI tracking for business decisions
 - Clean and interactive visuals
-
+![Dashboard Preview](retail-sales-dashboard.png)
 ## Tools Used
 - Power BI
 - DAX
