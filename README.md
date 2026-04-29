@@ -1,3 +1,6 @@
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail Sales Dashboard.jpg)
 # Retail Sales Dashboard (Power BI)
 
 ## Overview
